@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.0
-Release:	%mkrel 6
+Release:	%mkrel 7
 Summary:	Simple HTML form package
 License:	PHP License
 Group:		Development/PHP
